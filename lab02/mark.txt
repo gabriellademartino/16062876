@@ -1,0 +1,9 @@
+
+mark: 3
+
+notes:
+-could use more commenting in strings.py, also need print in order to test
+-same issue for lists.py, need commenting and testing (with use of print)
+-in clip.py, can use mystr[3:] rather than giving len(mystr)+1
+-should cast one argument as float in average.py
+-both dna.py and len_sum.py look fine, again just need more commenting
