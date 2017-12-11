@@ -1,0 +1,10 @@
+
+mark: 2 (also counted for lab07)
+
+notes:
+-the else block in lin_find isn't matched with an if so will never get run.
+ just return None to achieve this functionality
+-in bin_find, should return data rather than its index (didn't take marks off
+ for this, just an observation)
+-the code in shapeshift.py is identical to that of other students, so you
+ won't get credit for it
